@@ -1,3 +1,3 @@
 # Intro
 
-This is for the intro lecture of Git
+This is for the intro lecture of Git!
